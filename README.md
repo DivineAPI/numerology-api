@@ -18,7 +18,7 @@
 
 The **Numerology API** by DivineAPI is a suite of 15+ REST endpoints for numerology calculations. Give a full name and birth date, get back the complete numerology profile: life path, expression/destiny, soul urge, personality, birthday numbers, plus Loshu grid patterns, Chaldean-system readings, yearly predictions, gemstone remedies and mobile-number analysis. Plain JSON over HTTPS, 25 languages, no SDK required.
 
-Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (200+ astrology, horoscope, tarot and numerology endpoints).
+Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (300+ astrology, horoscope, tarot and numerology endpoints).
 
 ## Why choose DivineAPI's Numerology API?
 
